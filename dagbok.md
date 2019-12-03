@@ -1,1 +1,3 @@
-# 11/27/2019
+# 12/03/2019
+### Kláraði allt verkefnið heima.
+
